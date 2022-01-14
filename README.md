@@ -3,8 +3,8 @@
 ## Author
 
 * Github: [@spence-rat](https://github.com/spence-rat)
-* LinkedIn: [@spence-rat](https://www.linkedin.com/in/spencerbrowntx/)
-* 
+* LinkedIn: [@Spencer_Brown](https://www.linkedin.com/in/spencerbrowntx/)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
