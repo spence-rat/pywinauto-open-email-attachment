@@ -33,7 +33,7 @@ main_dlg = app[name_of_window]
 
 #-----------------------------Identify a particular email----------------------
 email = main_dlg.child_window(control_identifier_of_element)
-#example = main_dlg.child_window(title="title", auto_id="4306", control_type="Pane")
+#example = main_dlg.child_window(title="title", auto_id="number", control_type="Pane")
 #example = main_dlg['identifier']
 #click to open new email window
 email.click_input(double=True)
