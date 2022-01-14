@@ -22,7 +22,8 @@ time.sleep(10)
 #you can see what windows are available to you throughout this process by running:
 #print app.windows()
 main_dlg = app[name_of_window]
-#example: main_dlg = app['Inbox - Spencer.Brown@sophos.com - Outlook']
+#example: main_dlg = app['name_of_main_window']
+#example: main_dlg = app['Inbox - John.Doe@email.com - Outlook']
 #From here, you will need to find the 'control identifiers' or the 'handle' on the window in question
 #to do this call the print_control_identifiers method 
 #example: main_dlg.print_control_identifiers()
