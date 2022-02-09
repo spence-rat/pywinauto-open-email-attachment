@@ -12,6 +12,9 @@ Give a ⭐️ if this project helped you!
 ## Documentation
 The online documentation for this project can be found at the link below:
 https://pywinauto.readthedocs.io/en/latest/
+
 References:
+
 For killing an open process: https://www.geeksforgeeks.org/how-to-terminate-a-running-process-on-windows-in-python/
+
 For determing if a process is running: https://thinktwisted.com/2020/06/19/how-to-check-is-a-program-or-process-is-running-in-python/
