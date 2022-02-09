@@ -12,3 +12,4 @@ Give a ⭐️ if this project helped you!
 ## Documentation
 The online documentation for this project can be found at the link below:
 https://pywinauto.readthedocs.io/en/latest/
+https://www.geeksforgeeks.org/how-to-terminate-a-running-process-on-windows-in-python/
